@@ -9,7 +9,7 @@
 https://github.com/nellygarces/AstroWorld.git
 
 # Game Pitch
-AstroWorld is a fast-paced, single-player arcade game where you play as an astronaut named Suni (inspired by Suni Williams), who is free-falling back to Earth after a space mission gone wrong. Dodge astriod debris, collect gold stars, and survive a timed descent through space, the atmosphere, and sky before making a safe landing back home.
+AstroWorld is a fast-paced, single-player arcade game where you play as an astronaut named Suni (inspired by Suni Williams), who is free-falling back to Earth after a space mission gone wrong. Dodge asteroid debris, collect gold stars, and survive a timed descent through space, the atmosphere, and sky before making a safe landing back home.
 
 # How to Play
 - Arrow Keys: Move the astronaut (Suni) left/right
